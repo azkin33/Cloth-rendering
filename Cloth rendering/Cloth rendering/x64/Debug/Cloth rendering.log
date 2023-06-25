@@ -1,0 +1,9 @@
+﻿  Cloth.cpp
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Cloth rendering.vcxproj -> C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\x64\Debug\Cloth rendering.exe
