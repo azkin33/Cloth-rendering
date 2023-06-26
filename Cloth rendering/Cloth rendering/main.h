@@ -11,6 +11,7 @@
 #include <vector>
 #include "Vertex.h"
 #define _USE_MATH_DEFINES
+#define BUFFER_OFFSET(i) ((char*)NULL + (i))
 using namespace std;
 
 
@@ -22,10 +23,16 @@ extern GLint eyePosLoc[2];
 extern GLfloat* vertexData;
 extern GLfloat* normalData;
 extern GLuint* indexData;
-extern float ks,kd;
+extern float cubeSize;
+extern glm::vec3 cubeMin, cubeMax;
+extern float clothHeight;
+extern unsigned int clothTexture;
+extern GLuint gVertexAttribBuffer, gIndexBuffer;
+extern int gVertexDataSizeInBytes, gNormalDataSizeInBytes,indexDataSizeInBytes;
+extern float ks,kd,kShear;
 
 extern vector<Vertex> gVertices;
-extern vector<Face> gIndices;
+extern vector<Indice> gIndices;
 extern vector<Texture> gTextures;
 extern vector<Normal> gNormals;
 

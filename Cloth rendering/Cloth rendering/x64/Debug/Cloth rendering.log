@@ -1,9 +1,20 @@
 ﻿  Cloth.cpp
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(41,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(42,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(52,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(52,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(66,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(66,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(66,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(67,59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(67,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(67,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(174,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(221,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(222,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(223,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(254,34): warning C4244: '=': conversion from 'GLfloat' to 'GLuint', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(255,38): warning C4244: '=': conversion from 'GLfloat' to 'GLuint', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(256,38): warning C4244: '=': conversion from 'GLfloat' to 'GLuint', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(265,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\Cloth rendering\Cloth.cpp(313,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   Cloth rendering.vcxproj -> C:\Users\baris\Documents\Cloth-rendering\Cloth rendering\x64\Debug\Cloth rendering.exe
